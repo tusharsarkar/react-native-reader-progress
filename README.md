@@ -2,9 +2,6 @@
 
 React Native component for creating animated, circular progress. Useful for displaying users points for example. **Works on iOS & Android.**
 
-## Example app
-
-![image](screenshot.gif)
 
 ## Installation
 
