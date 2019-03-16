@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tusharsarkar/react-native-reader-progress.git"
+    "url": "git+ssh://git@github.com/tusharsarkar/react-native-reader-progress.git"
   },
   "keywords": [
     "react",
